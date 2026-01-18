@@ -33,7 +33,7 @@ Regression Analysis · Random Forest · Hypothesis Testing · Loss Reserving · 
 
 ## 📂 Featured Projects
 
-### [Workers' Compensation Loss Reserving](https://github.com/Crystalwindmill/Crystalwindmill)
+### [Workers' Compensation Loss Reserving](https://github.com/Crystalwindmill/Actuarial-Science-Workers-Compensation-Loss-Reserving-Case-Competition)
 Actuarial case competition project estimating **$2.1M ultimate losses** using Chain-Ladder and Frequency-Severity methods with **<2% variance** between models.  
 `Python` `Excel` `Predictive Modeling` `Actuarial Science`
 
